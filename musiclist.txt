@@ -1,0 +1,318 @@
+## 수학과제탐구용 샘플 선정
+## 하위 장르에 붙은 (n)은 전체 일련번호
+## 작곡가명 - 제목 (년도) 로 배치
+
+Classic
+
+1. Classic (1)
+Hot Butter - Popcorn (1972)
+
+2. Electro Pop (2)
+Kraftwerk - Autobahn (1974)
+
+3. New Wave (3)
+New Order - Blue Monday (1986)
+
+4. Eurodisco (4)
+Modern Talking - You're My Heart, You're My Soul (1984)
+
+5. Italo disco (5)
+Clio - Faces (1985)
+
+6. Hi-nrg (6)
+Donna Summer, Giorgio Moroder & Pete Bellotte - I Feel Love (1997)
+
+7. Electro (7)
+Cybotron - Clear (1983)
+
+House
+
+1. House (8)
+Daft Punk - Voyager (2001)
+
+2. Chicago House (9)
+Steve Hurley - Jack Your Body (1986)
+
+3. Deep House (10)
+Mr Fingers - Can You Feel It (1986)
+
+4. Acid House (11)
+LFO - LFO (1990)
+
+5. Garage (12)
+MJ Cole - Sincere (2000)
+
+6. Tribal House (13)
+Jaydee - Plastic Dreams (Tribal Mix) (1993)
+
+7. Progressive House (14)
+DAVI - The Bay 6 Part 1 (2013)
+
+8. Ambient House (15)
+808 State - Pacific State (1998)
+
+9. Eurodance (16)
+Snap! - Rhythm is a Dancer (1992)
+
+10. Disco House (17)
+Stardust - Music Sounds Better With You (1998)
+
+11. French House (18)
+Justice - D.A.N.C.E. (2007)
+
+12. Electro House (19)
+Tobu - Higher (2013)
+
+13. Big Room House (20)
+Martin Garrix - Animals (2013)
+
+14. Bass / Jackin' House (21)
+Halogen - U Got That (2017)
+
+15. Latin House (22)
+Juan Magan, Deorro, MAKJ - Munequita Linda (2018)
+
+16. Tropical House (23)
+Kygo & Ellie Goulding - First Time (2017)
+
+17. Future House (24)
+Janet Jackson - Go Deep (Tchami Remix) (2013)
+
+18. Nu-Disco (25)
+Todd Terje - Inspector Norse (2012)
+
+19. Electro Swing (26)
+Parov Stelar - Catgroove (2009)
+
+Techno
+
+1. Techno (27)
+Orbital - Tunnel Vision (2004)
+
+2. Detroit Techno (28)
+Derrick May - The Dance (1991)
+
+3. Minimal Techno (29)
+Steve Poindexter - Computer Madness (2007)
+
+4. Acid Techno (30)
+Pagan Acid - Audition Coloree (1994)
+
+5. Ambient Techno (31)
+Biosphere - The Shield (1994)
+
+6. Tech House (32)
+Gramatik - Illegal (2008)
+
+Trance
+
+1. Trance (33)
+Lost Tribe - Gamemaster (1997)
+
+2. Classic Trance (34)
+DJ Tiesto - Suburban Train (2001)
+
+3. Vocal Trance (35)
+John O'Callaghan ft.Audrey Gallagher - Big Sky (2007)
+
+4. Progressive Trance (36)
+Liquid Soul - Devotion (2008)
+
+5. Uplifting Trance (37)
+Glensk - Pacific Blue (Daniel Kandi's Bangin Mix) (2010)
+
+6. Goa / Psytrance (38)
+Astrix & Delirious - Day Dream (Indra Remix) (2018)
+
+7. Suomisaundi (39)
+Texas Faggott - Back To Mad (2000)
+
+8. Eurotrance (40)
+Alice Deejay - Better Off Alone (1999)
+
+Breaks
+
+1. Breakbeat (41)
+The CHemical Brothers - Block Rockin'Beats (1997)
+
+2. Big Beat (42)
+The Prodigy - Invaders Must Die (2008)
+
+3. Nu-Funk (43)
+A Skillz - Good Music (2014) 
+
+4. 2-Step Garage (44)
+Horsepower Productions - Gorgon Sound (2002)
+
+5. Jungle (45)
+D.R.S. feat. Kenny Ken - Everyman (1995)
+
+6. Breakcore (46)
+Venetian Snares - Hajnal (2005)
+
+7. Rave Breaks (47)
+Acen - Trip To The Moon Part 3 (1992)
+
+8. Progressive Breaks (48)
+Double Creativity - Selecta (Stronglast & Exia Remix) (2015)
+
+Bass
+
+1. Bass (49)
+WHTDK - Say To Me (Shaun Dean Remix) (2017)
+
+2. BassLine (50)
+Darkzy - One Dance (2016)
+
+3. Drum And Bass (51)
+B-Complex - Beautiful Lies (2010)
+
+4. Neurofunk (52)
+Noisia - Anomaly (2016)
+
+5. Liquid DnB (53)
+Timothy Seals - Chasing Voids (2014)
+
+6. DUB (54)
+Thievery Corporation - Amerimacka (2005)
+
+7. Dubstep (55)
+Blue Foundation - Eyes On Fire (Zeds Dead Remix) (2007)
+
+8. Brostep (56)
+Skrillex - Scary Monsters and Nice Sprites (2010)
+
+9. Complextro (57)
+Razihel - Falcon Punch (2013)
+
+10. Drumstep (58)
+Tristam & Braken - Flight (2013)
+
+11. Moombathon (59)
+Major Lazer - Watch Out For This (2012)
+
+12. Melbourne Bounce (60)
+Mike L - Party Hard (2016)
+
+13. Trap (EDM) (61)
+Duke & Jones feat. Don Cotti - Sticks (2018)
+
+14. Future Bass (62)
+Panama - Always (Wave Racer Remix) (2013)
+
+15. Glitch Hop (63)
+TheFatRat - Unity (2014)
+
+Hard
+
+1. Hardcore (64)
+Mescalinum United - We Have Arrived (1990)
+
+2. Industrial (65)
+Front 242 - Tragedy For You (1991)
+
+3. EBM (66)
+The Arch - Spang (1998)
+
+4. New Beat (67)
+The Lords of Acid - I Sit On Acid (1991)
+
+5. Hard Techno (68)
+Clouds - Radical Cutting Methods (2013)
+
+6. Gabber (69)
+Diss Reaction - Jiiieehaaaa (1995)
+
+7. Hardstyle (70)
+Headhunterz - Psychedelic (2010)
+
+8. Happy Hardcore (71)
+Force & Styles - Field of Dreams (1997)
+
+9. Hard Dance (72)
+Pegboard Nerds - Hero (2014)
+
+10. Futurepop (73)
+Apoptygma Berzerk - Eclipse (2000)
+
+11. Witch House (74)
+Salem - Knight Night (2010)
+
+12. Hardbass (75)
+Hard Bass School - Narkotik Kal (2013)
+
+13. Eurobeat (76)
+Dream - Night of Fire (2000)
+
+Synth
+
+1. Synthwave (77)
+Kavinsky - Nightcall (2010)
+
+2. Outrun (78)
+Perturbator feat. Flash Arnold - Sexualizer (2013)
+
+3. Darksynth (79)
+Carpenter Brut - Poller Mobster (2013)
+
+Chill
+
+1. Downtempo (80)
+Moby - Porcelain (1999)
+
+2. Ambient (81)
+Brian Eno - An Ending (1983)
+
+3. Chillout (82)
+Oleg Byonic - Broad Expanse of Heaven (2019)
+
+4. Future Garage (83)
+Ennja - Let Go (2018)
+
+5. Lo-Fi Hiphop (84)
+Leavv - Tomorrow (2018)
+
+6. Trip Hop (85)
+Royksopp - So Easy (1999)
+
+7. Vaporwave (86)
+Macintosh Plus - Lisa Frank 420 / Modern Computing (2011)
+
+8. Chillwave (87)
+HOME - Resonance (2014)
+
+9. Psybient (88)
+Liquid Space - Copy Dreams Lauter (2012)
+
+10. Spacewave (89)
+Mike Oldfield - Let There Be Light (1994)
+
+Others
+
+1. Other (90)
+IAMTHEKIDYOUKNOWWHATIMEAN - Run (2015)
+
+2. IDM (91)
+Aphex Twin - Vordhosbn (2001)
+
+3. Glitch (92)
+Signal - Naplafa (2007)
+
+4. Chiptune (93)
+Souleye - Pressure Coddker (2010)
+
+5. Acid Jazz (94)
+Legato feat. Karen Jones - If You Suck My Soul (2003)
+
+6. Nu-Jazz (95)
+Quantic - Transatlantic (2002)
+
+7. Future Funk (96)
+MACROSS 82-99 - Fun Tonight (2015)
+
+8. Nightcore (97)
+Nightcore - Rockefeller Street (2011)
+
+## 제외
+## 9. Mashups (98)
+## Madeon - Pop Culture (2011)
